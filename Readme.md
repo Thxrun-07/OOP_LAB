@@ -34,6 +34,9 @@ This repository contains **Java programs** developed as part of the Object Orien
 * **Exercise 1:** Print Statement.
 * **Exercise 2:** Implementation of Data Types.
 * **Exercise 3:** Working with Data Operators.
+* **Exercise 4:** Implementation of While loop and if-else.
+* **Exercise 5:** Implementation of Do-While loop and if-else.
+* **Exercise 6:** Implementation of For loop.
 
 **Key Features:**
 * ✅ Content is fundamental Java syntax and logic building.
